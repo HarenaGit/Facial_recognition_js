@@ -4,7 +4,8 @@ This is a test application for a facial recognition in Javascript.
 
 ## Note
 
-You need to run the app in a server so that de tensorflow model server is loaded successfully.
+Launch ``index.html`` directly will not work. You need to run the app in a server so that the tensorflow models are loaded successfully.
+
 
 ## My Configuration
 
